@@ -1,0 +1,6 @@
+@media only screen and (max-width: 992px) {
+  .team .container .row .team1 {
+    width: 48%;
+    flex-wrap: wrap;
+  }
+}
